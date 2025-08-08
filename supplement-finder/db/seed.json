@@ -1,0 +1,389 @@
+[
+  {
+    "id": "ing1",
+    "name": "L-Theanine",
+    "primaryUses": [
+      "focus",
+      "anxiety",
+      "relaxation"
+    ],
+    "tags": [
+      "nootropic",
+      "amino-acid"
+    ],
+    "doseRange": "100-400 mg",
+    "mechanism": "Modulates GABA & alpha brain waves",
+    "evidenceRating": 4,
+    "sideEffects": "Mild drowsiness at high doses",
+    "pubmed": [
+      "https://pubmed.ncbi.nlm.nih.gov/25882248/"
+    ],
+    "trendScore": 60
+  },
+  {
+    "id": "ing2",
+    "name": "Caffeine",
+    "primaryUses": [
+      "energy",
+      "focus"
+    ],
+    "tags": [
+      "stimulant"
+    ],
+    "doseRange": "50-200 mg",
+    "mechanism": "Adenosine receptor antagonist",
+    "evidenceRating": 5,
+    "sideEffects": "Insomnia, jitteriness",
+    "pubmed": [
+      "https://pubmed.ncbi.nlm.nih.gov/20118240/"
+    ],
+    "trendScore": 85
+  },
+  {
+    "id": "ing3",
+    "name": "Rhodiola Rosea",
+    "primaryUses": [
+      "stress",
+      "fatigue",
+      "endurance"
+    ],
+    "tags": [
+      "adaptogen"
+    ],
+    "doseRange": "200-600 mg",
+    "mechanism": "Adaptogenic modulation of HPA axis",
+    "evidenceRating": 4,
+    "sideEffects": "Rare GI upset",
+    "pubmed": [
+      "https://pubmed.ncbi.nlm.nih.gov/19796622/"
+    ],
+    "trendScore": 70
+  },
+  {
+    "id": "ing4",
+    "name": "Ashwagandha",
+    "primaryUses": [
+      "anxiety",
+      "stress",
+      "sleep"
+    ],
+    "tags": [
+      "adaptogen"
+    ],
+    "doseRange": "300-600 mg",
+    "mechanism": "GABAergic and HPA modulation",
+    "evidenceRating": 4,
+    "sideEffects": "Drowsiness at high dose",
+    "pubmed": [
+      "https://pubmed.ncbi.nlm.nih.gov/23439798/"
+    ],
+    "trendScore": 80
+  },
+  {
+    "id": "ing5",
+    "name": "Bacopa Monnieri",
+    "primaryUses": [
+      "memory",
+      "cognition",
+      "focus"
+    ],
+    "tags": [
+      "nootropic",
+      "herbal"
+    ],
+    "doseRange": "300-450 mg",
+    "mechanism": "Cholinergic modulation & antioxidant",
+    "evidenceRating": 4,
+    "sideEffects": "Digestive discomfort",
+    "pubmed": [
+      "https://pubmed.ncbi.nlm.nih.gov/17892355/"
+    ],
+    "trendScore": 55
+  },
+  {
+    "id": "ing6",
+    "name": "Omega-3 (EPA/DHA)",
+    "primaryUses": [
+      "brain health",
+      "inflammation"
+    ],
+    "tags": [
+      "essential-fatty-acid"
+    ],
+    "doseRange": "500-2000 mg",
+    "mechanism": "Membrane fluidity & anti-inflammatory",
+    "evidenceRating": 5,
+    "sideEffects": "Fishy aftertaste, bleeding risk at very high doses",
+    "pubmed": [
+      "https://pubmed.ncbi.nlm.nih.gov/23966850/"
+    ],
+    "trendScore": 75
+  },
+  {
+    "id": "ing7",
+    "name": "Magnesium (Glycinate)",
+    "primaryUses": [
+      "sleep",
+      "muscle relax",
+      "anxiety"
+    ],
+    "tags": [
+      "mineral"
+    ],
+    "doseRange": "200-400 mg",
+    "mechanism": "NMDA regulation, GABA support",
+    "evidenceRating": 5,
+    "sideEffects": "Loose stools at high doses",
+    "pubmed": [
+      "https://pubmed.ncbi.nlm.nih.gov/25670835/"
+    ],
+    "trendScore": 80
+  },
+  {
+    "id": "ing8",
+    "name": "Vitamin D3",
+    "primaryUses": [
+      "immune",
+      "mood"
+    ],
+    "tags": [
+      "vitamin"
+    ],
+    "doseRange": "1000-4000 IU",
+    "mechanism": "Nuclear receptor mediated gene regulation",
+    "evidenceRating": 5,
+    "sideEffects": "Hypercalcemia at excessive doses",
+    "pubmed": [
+      "https://pubmed.ncbi.nlm.nih.gov/23807450/"
+    ],
+    "trendScore": 90
+  },
+  {
+    "id": "ing9",
+    "name": "N-Acetyl L-Cysteine (NAC)",
+    "primaryUses": [
+      "antioxidant",
+      "respiratory"
+    ],
+    "tags": [
+      "amino-acid"
+    ],
+    "doseRange": "600-1800 mg",
+    "mechanism": "Glutathione precursor",
+    "evidenceRating": 4,
+    "sideEffects": "GI discomfort, rare rash",
+    "pubmed": [
+      "https://pubmed.ncbi.nlm.nih.gov/21824306/"
+    ],
+    "trendScore": 50
+  },
+  {
+    "id": "ing10",
+    "name": "Creatine Monohydrate",
+    "primaryUses": [
+      "strength",
+      "cognition"
+    ],
+    "tags": [
+      "sports-nutrition"
+    ],
+    "doseRange": "3-5 g",
+    "mechanism": "ATP replenishment",
+    "evidenceRating": 5,
+    "sideEffects": "Water retention",
+    "pubmed": [
+      "https://pubmed.ncbi.nlm.nih.gov/16596753/"
+    ],
+    "trendScore": 85
+  },
+  {
+    "id": "ing11",
+    "name": "Curcumin (Turmeric)",
+    "primaryUses": [
+      "inflammation",
+      "joint health"
+    ],
+    "tags": [
+      "herbal",
+      "anti-inflammatory"
+    ],
+    "doseRange": "500-2000 mg (with piperine)",
+    "mechanism": "NF-kB inhibition",
+    "evidenceRating": 4,
+    "sideEffects": "GI upset, interacts with blood thinners",
+    "pubmed": [
+      "https://pubmed.ncbi.nlm.nih.gov/17569207/"
+    ],
+    "trendScore": 80
+  },
+  {
+    "id": "ing12",
+    "name": "Vitamin B12 (Methylcobalamin)",
+    "primaryUses": [
+      "energy",
+      "nerve health"
+    ],
+    "tags": [
+      "vitamin"
+    ],
+    "doseRange": "500-2000 mcg (sublingual)",
+    "mechanism": "Cofactor in methylation",
+    "evidenceRating": 5,
+    "sideEffects": "Rare allergy",
+    "pubmed": [
+      "https://pubmed.ncbi.nlm.nih.gov/23697717/"
+    ],
+    "trendScore": 65
+  },
+  {
+    "id": "ing13",
+    "name": "CoQ10",
+    "primaryUses": [
+      "energy",
+      "cardio"
+    ],
+    "tags": [
+      "antioxidant"
+    ],
+    "doseRange": "100-300 mg",
+    "mechanism": "Electron transport chain support",
+    "evidenceRating": 4,
+    "sideEffects": "Mild GI upset",
+    "pubmed": [
+      "https://pubmed.ncbi.nlm.nih.gov/12052236/"
+    ],
+    "trendScore": 50
+  },
+  {
+    "id": "ing14",
+    "name": "Ginkgo Biloba",
+    "primaryUses": [
+      "memory",
+      "circulation"
+    ],
+    "tags": [
+      "herbal"
+    ],
+    "doseRange": "120-240 mg",
+    "mechanism": "Circulatory & antioxidant effects",
+    "evidenceRating": 3,
+    "sideEffects": "Bleeding risk with anticoagulants",
+    "pubmed": [
+      "https://pubmed.ncbi.nlm.nih.gov/12122262/"
+    ],
+    "trendScore": 40
+  },
+  {
+    "id": "ing15",
+    "name": "Melatonin",
+    "primaryUses": [
+      "sleep"
+    ],
+    "tags": [
+      "hormone"
+    ],
+    "doseRange": "0.5-5 mg",
+    "mechanism": "Circadian rhythm modulation",
+    "evidenceRating": 5,
+    "sideEffects": "Morning grogginess at high doses",
+    "pubmed": [
+      "https://pubmed.ncbi.nlm.nih.gov/17882284/"
+    ],
+    "trendScore": 85
+  },
+  {
+    "id": "ing16",
+    "name": "Probiotic (Lactobacillus + Bifidobacterium)",
+    "primaryUses": [
+      "gut health",
+      "immunity"
+    ],
+    "tags": [
+      "probiotic"
+    ],
+    "doseRange": "1-10 billion CFU",
+    "mechanism": "Microbiome modulation",
+    "evidenceRating": 4,
+    "sideEffects": "Gas/bloating initially",
+    "pubmed": [
+      "https://pubmed.ncbi.nlm.nih.gov/29138793/"
+    ],
+    "trendScore": 70
+  },
+  {
+    "id": "ing17",
+    "name": "Vitamin C",
+    "primaryUses": [
+      "immune",
+      "skin"
+    ],
+    "tags": [
+      "vitamin"
+    ],
+    "doseRange": "500-2000 mg",
+    "mechanism": "Antioxidant & collagen synthesis",
+    "evidenceRating": 5,
+    "sideEffects": "GI upset at high doses",
+    "pubmed": [
+      "https://pubmed.ncbi.nlm.nih.gov/23966850/"
+    ],
+    "trendScore": 60
+  },
+  {
+    "id": "ing18",
+    "name": "Green Tea Extract (EGCG)",
+    "primaryUses": [
+      "antioxidant",
+      "weight"
+    ],
+    "tags": [
+      "polyphenol"
+    ],
+    "doseRange": "250-500 mg",
+    "mechanism": "Thermogenesis & antioxidant",
+    "evidenceRating": 4,
+    "sideEffects": "Liver risk at very high doses",
+    "pubmed": [
+      "https://pubmed.ncbi.nlm.nih.gov/19597519/"
+    ],
+    "trendScore": 65
+  },
+  {
+    "id": "ing19",
+    "name": "Huperzine A",
+    "primaryUses": [
+      "memory",
+      "cognition"
+    ],
+    "tags": [
+      "nootropic"
+    ],
+    "doseRange": "50-200 mcg",
+    "mechanism": "Acetylcholinesterase inhibition",
+    "evidenceRating": 3,
+    "sideEffects": "Cholinergic effects",
+    "pubmed": [
+      "https://pubmed.ncbi.nlm.nih.gov/11897236/"
+    ],
+    "trendScore": 35
+  },
+  {
+    "id": "ing20",
+    "name": "Phosphatidylserine",
+    "primaryUses": [
+      "cognition",
+      "stress"
+    ],
+    "tags": [
+      "lipid"
+    ],
+    "doseRange": "100-300 mg",
+    "mechanism": "Membrane support & cortisol modulation",
+    "evidenceRating": 4,
+    "sideEffects": "GI upset",
+    "pubmed": [
+      "https://pubmed.ncbi.nlm.nih.gov/14617122/"
+    ],
+    "trendScore": 45
+  }
+]

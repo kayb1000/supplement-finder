@@ -1,0 +1,16 @@
+{
+  "name": "supplement-ingredient-finder",
+  "version": "0.1.0",
+  "description": "Minimal Supplement Ingredient Finder - Express backend + static React frontend (prototype)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "body-parser": "^1.20.2",
+    "nodemailer": "^6.9.3",
+    "cors": "^2.8.5",
+    "lowdb": "^5.0.0"
+  }
+}
